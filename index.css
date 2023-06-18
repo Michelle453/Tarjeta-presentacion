@@ -1,0 +1,109 @@
+body
+{
+    background-color: #1C1C1C;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+   
+}
+section
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.card
+{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    background-color: aqua;
+    width: 390px;
+    height: 600px;
+    margin: 40px;
+    border-radius: 40px;
+    overflow: hidden;
+    background-color: #242424;
+}
+#figure-pc
+{
+    width: 100%;
+   position: relative;
+}
+#figure-perfil
+{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    width: 170px;
+    margin: 115px;
+    padding: 5px;
+   
+
+}
+#information
+{
+    text-align: center;
+    width: 100%;
+    margin-top: 30px;   
+}
+#name
+{
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+#view-projects-email
+{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+}
+#view-projects-email a
+{
+    text-decoration: none;
+    color: white;
+}
+#view-projects-email a:hover
+{
+    color: #15297c;
+}
+#contents
+{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 100%;
+    background-color: #2F2F2F;
+}
+
+#numbers
+{
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+#text
+{
+    font-weight: normal;
+}
+#follow
+{
+    text-align: center;
+    background-color: #060B17;
+}
+#follow div
+{
+    margin: 20px;
+}
+#follow div a
+{
+    text-decoration: none;
+    color: white;
+    margin: 40px;
+    margin-top:80px;
+    font-weight: bold;
+    font-size: 20px;
+}
+#follow div a:hover
+{
+    color: #15297c;
+}
