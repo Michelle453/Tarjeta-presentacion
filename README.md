@@ -1,5 +1,5 @@
 # Tarjeta de presentación
-Código para realizar una tarjeta de presentación sencilla, la cual brinda información básica.
+Código para realizar una tarjeta de presentación sencilla, la cual brinda información básica, como la nacionalidad y profesión.
 Este pequeño proyecto fue realizado con HTML y CSS, en la imagen a continuación se puede visualizar el resultado final. 
 
 
